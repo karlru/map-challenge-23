@@ -3,7 +3,7 @@
 [Learn more about the project](https://30daymapchallenge.com/)
 
 ### Days:
-Every day has its own theme/category. For higher resolution, open image in new tab.
+Every day has its own theme/category. For higher resolution, open image in new tab. Data used across multiple maps can be found in the common_data folder, map-specific data can be found together with its source code under src/{day number}.
 
 1. Points
 
