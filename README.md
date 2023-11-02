@@ -12,6 +12,10 @@ Every day has its own theme/category. For higher resolution, open image in new t
 Data source: Maa-amet
 
 2. Lines
+
+![Kaablid](src/2/result.png)
+Data source: TeleGeography, Natural Earth
+
 3. Polygons
 4. A bad map
 5. Analog Map
