@@ -17,6 +17,10 @@ Data source: Maa-amet
 Data source: TeleGeography, Natural Earth
 
 3. Polygons
+
+![Cybertruck](src/3/result.png)
+Data source: Natural Earth
+
 4. A bad map
 5. Analog Map
 6. Asia
