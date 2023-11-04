@@ -22,6 +22,10 @@ Data source: TeleGeography, Natural Earth
 Data source: Natural Earth
 
 4. A bad map
+
+![Kambja](src/4/result.png)
+Data source: Maa-amet, [Postimees](https://ilmajaam.postimees.ee/6028013/kambjas-on-ilm-soojem-kui-gambias)
+
 5. Analog Map
 6. Asia
 7. Navigation
