@@ -27,6 +27,10 @@ Data source: Natural Earth
 Data source: Maa-amet, [Postimees](https://ilmajaam.postimees.ee/6028013/kambjas-on-ilm-soojem-kui-gambias)
 
 5. Analog Map
+
+![Käsitsi](src/5/result.png)
+Data source: Memory
+
 6. Asia
 7. Navigation
 8. Africa
